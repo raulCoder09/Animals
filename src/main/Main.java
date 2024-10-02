@@ -2,9 +2,9 @@ package main;
 
 public class Main {
     public static void main(String[] args) {
-        Airplane plane = new Airplane();
+        Airplane plane = new Airplane("Airbus","Screamer",2024);
         Bird swallow = new Bird();
-        Superman iMere = new Superman();
+        Superman iMere = new Superman("Raul",34,110.0f);
 
 
 //------------------------------------plane------------------------------------
