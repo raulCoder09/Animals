@@ -22,5 +22,4 @@ public class Superman extends Kryptonian implements Flyer{
     public void stopBullet(){
 
     }
-
 }
